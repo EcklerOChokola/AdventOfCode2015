@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const { cwd } = require('process');
-const { MD5 } = require("md5-js-tools");
 
 let houses = {};
 
